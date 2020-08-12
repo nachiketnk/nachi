@@ -20,11 +20,11 @@
 
 [[main]]
   name = "Courses"
-  url = "#featured"
+  url = ""
   weight = 40
 
 [[main]]
-  name = "My Dataviz"
+  name = "Dataviz"
   url = ""
   weight = 50
 

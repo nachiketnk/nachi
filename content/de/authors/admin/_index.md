@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Sr. Data Science Manager
+role: Data Science Manager
 
 # Organizations/Affiliations
 organizations:

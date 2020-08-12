@@ -18,19 +18,19 @@ subtitle = "Everyone is a superhero"
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "Expert"
 
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "Handson and production"
+  description = "Expert - Hands-on and production"
 
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = "Hidden Strength"  
 
 [[feature]]
     icon = "terminal"
@@ -39,16 +39,22 @@ subtitle = "Everyone is a superhero"
     description = "admin and super user"
 
 [[feature]]
-    icon = "fa-aws"
-    icon_pack = "fas"
-    name = "Forecasting"
+    icon = "docker"
+    icon_pack = "fab"
+    name = "Doker"
     description = "Expert"
 
 [[feature]]
-    icon = "fa-git"
-    icon_pack = "fas"
+    icon = "git-square"
+    icon_pack = "fab"
     name = "git"
     description = "Expert"
+
+[[feature]]
+    icon = "aws"
+    icon_pack = "fab"
+    name = "AWS"
+    description = "User"
 
 [[feature]]
   icon = "camera-retro"
